@@ -87,7 +87,7 @@ class Background {
     this.ypmTrayImpl = null;
     this.store = new Store({
       windowWidth: {
-        width: { type: 'number', default: 1440 },
+        width: { type: 'number', default: 1080 },
         height: { type: 'number', default: 840 },
       },
     });
