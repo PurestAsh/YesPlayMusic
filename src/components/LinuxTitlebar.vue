@@ -81,7 +81,9 @@ export default {
   --active: #cccccc;
 
   .logo {
-    padding: 0 8px;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
   }
 
   .title {

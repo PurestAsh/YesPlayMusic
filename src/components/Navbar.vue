@@ -205,7 +205,7 @@ nav {
 }
 
 nav.has-custom-titlebar {
-  padding-top: 20px;
+  padding-top: 30px;
   -webkit-app-region: no-drag;
 }
 
