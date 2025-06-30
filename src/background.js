@@ -177,7 +177,7 @@ class Background {
     const showLibraryDefault = this.store.get('settings.showLibraryDefault');
 
     const options = {
-      width: this.store.get('window.width') || 1440,
+      width: this.store.get('window.width') || 1080,
       height: this.store.get('window.height') || 840,
       minWidth: 1080,
       minHeight: 720,
