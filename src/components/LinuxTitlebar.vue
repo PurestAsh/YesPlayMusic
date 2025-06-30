@@ -3,7 +3,7 @@
     <div class="logo">
       <img src="img/logos/yesplaymusic-white24x24.png" />
     </div>
-    <div class="title">{{ title }}</div>
+    <div class="title"> </div>
     <div class="controls">
       <div
         class="button minimize codicon codicon-chrome-minimize"
